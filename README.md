@@ -12,7 +12,7 @@ An example to compile and launch the program: (use the right output folder!)
 
 Don't forget the -std parameter: without it the program may not run.
 
-2) Once compiled, launch the program with [position]/(splitter/outputname).
+2) Once compiled, launch the program with [position]/(outputname).
 Launch examples:
 
   ./splitter
