@@ -16,6 +16,7 @@ Don't forget the -std parameter: without it the program may not run.
 Launch examples:
 
   ./splitter
+  
   /home/kali/Desktop/splitter
 
 When the program's been launched, you can split your wordlist into as many pieces as you want, to make it run meanwhile on different computers or systems. This often optimizes the bruteforce attack.
