@@ -1,7 +1,7 @@
-# Split
+# Splitter
 Small c++ program to split a wordlist into a given number of pieces
 
-Split is a small c++ program to divide a wordlist into pieces.
+Splitter is a small c++ program to divide a wordlist into pieces.
 When you have compiled the source code (advice: use g++), you can deal with the interactive and simplest console.
 
 WARNING: Not tested on .lst files yet. Works gorgeously on .txt files.
